@@ -13,6 +13,11 @@ This repository contains the replication package, search queries, screening logs
 
 > **Note on PDFs:** Full-text PDF papers are excluded from this repository due to copyright restrictions.
 
+
 ## 📜 License
-- Code: [MIT License](LICENSE)
-- Data & Documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+[![MIT License](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+- **Source Code:** Released under the [MIT License](LICENSE).
+- **Data, Queries & Manuscript:** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
