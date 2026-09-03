@@ -1,5 +1,6 @@
 cat << 'EOF' > .gitignore
 # Ignore entire PDF library (copyright & file size)
+pdf_library/*
 pdf_library/
 *.pdf
 

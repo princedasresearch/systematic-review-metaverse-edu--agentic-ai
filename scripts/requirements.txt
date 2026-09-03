@@ -1,0 +1,4 @@
+# No external dependencies required.
+# All three scripts (01_count_papers.py, 02_deduplicate.py, 03_rename.py)
+# use only the Python standard library (argparse, hashlib, shutil, pathlib).
+# Python 3.8+ recommended.
