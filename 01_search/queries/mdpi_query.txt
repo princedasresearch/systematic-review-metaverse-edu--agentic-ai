@@ -1,0 +1,2 @@
+("immersive learning" OR "virtual reality" OR "augmented reality" OR "mixed reality" OR "extended reality" OR "virtual world") 
+AND education AND ("generative AI" OR "large language model" OR "multimodal AI" OR "AI agent" OR "agentic AI")

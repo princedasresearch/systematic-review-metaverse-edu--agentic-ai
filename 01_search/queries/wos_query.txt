@@ -1,0 +1,40 @@
+TS=(
+  (
+    metaverse
+    OR "virtual world*"
+    OR "immersive learning"
+    OR "immersive environment*"
+    OR "virtual reality"
+    OR "augmented reality"
+    OR "mixed reality"
+    OR "extended reality"
+  )
+  AND
+  (
+    education
+    OR educat*
+    OR learning
+    OR teaching
+    OR student*
+    OR learner*
+    OR pedagog*
+  )
+  AND
+  (
+    "generative AI"
+    OR "generative artificial intelligence"
+    OR "large language model*"
+    OR LLM*
+    OR "multimodal AI"
+    OR "multimodal model*"
+    OR "multimodal large language model*"
+    OR MLLM*
+    OR "AI agent*"
+    OR "intelligent agent*"
+    OR "autonomous agent*"
+    OR "agentic AI"
+    OR "embodied agent*"
+    OR "pedagogical agent*"
+    OR "LLM agent*"
+  )
+)

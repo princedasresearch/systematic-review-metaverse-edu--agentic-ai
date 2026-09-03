@@ -1,0 +1,22 @@
+(
+metaverse OR "virtual reality" OR "augmented reality"
+OR "mixed reality" OR "immersive learning"
+OR "virtual world"
+)
+AND
+(
+education OR learning OR teaching
+OR student OR learner OR teacher
+)
+AND
+(
+"generative artificial intelligence"
+OR "generative AI"
+OR "large language model"
+OR "multimodal AI"
+OR "AI agent"
+OR "intelligent agent"
+OR "autonomous agent"
+OR "agentic AI"
+OR "pedagogical agent"
+)

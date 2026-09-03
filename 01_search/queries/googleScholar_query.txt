@@ -1,0 +1,23 @@
+"metaverse" education "generative AI"
+"metaverse" education "generative artificial intelligence"
+"metaverse" education "large language model"
+"virtual reality" education "generative AI"
+"immersive learning" "generative AI"
+"metaverse" education "multimodal AI"
+"metaverse" education "multimodal model"
+"immersive learning" "multimodal AI"
+"virtual reality" education "multimodal AI"
+"virtual world" education "multimodal"
+"metaverse" education "AI agent"
+"metaverse" education "intelligent agent"
+"metaverse" education "autonomous agent"
+"metaverse" education "agentic AI"
+"immersive learning" "AI agent"
+"virtual reality" education "intelligent agent"
+"metaverse" education "generative AI" framework
+"metaverse" education "AI agent" framework
+"metaverse" education "multimodal AI" framework
+"metaverse" education "generative AI" architecture
+"immersive learning" "AI agent" architecture
+"virtual reality" education "intelligent agent" framework
+
